@@ -1,0 +1,21 @@
+.product {
+  display: flex;
+  border-bottom: 1px solid lightgray;
+  margin-bottom: 5px;
+  margin-right: 10px;
+  padding-bottom: 10px;
+}
+
+.product .product_content h4 {
+  color: blue;
+  font-weight: 400;
+}
+
+.product .product_content button {
+  background-color: goldenrod;
+  outline: none;
+  border: none;
+  padding: 10px 30px;
+  border-radius: 5px;
+  cursor: pointer;
+}
